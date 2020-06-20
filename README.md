@@ -15,7 +15,7 @@ https://arukayies.com/gas/scraping-moneyforward
 
 # License
 
-"create-eyecatchImage" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+"scraping-moneyforward" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
 
 Enjoy GAS !
 
