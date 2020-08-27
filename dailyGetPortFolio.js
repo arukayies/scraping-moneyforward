@@ -11,7 +11,7 @@ function dailyGetPortFolio() {
     let header, table, json;
 
     /* moneyforwardにログインし、セッション情報を取得する[identification_code, moneybook_session] */
-    const session = login(email, password);
+    const session = login_v2(email, password);
 
     /* 資産ページのコンテンツを取得する */
     const headers = {
